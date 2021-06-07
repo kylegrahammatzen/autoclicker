@@ -1,4 +1,4 @@
-# AutoClicker
+# kyeautoclicker
 
 ![Total downloads](https://img.shields.io/sourceforge/dt/kyeautoclicker.svg)
 
