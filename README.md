@@ -1,6 +1,7 @@
 # kyeautoclicker
 
-![Total downloads](https://img.shields.io/sourceforge/dt/kyeautoclicker.svg)
+[![Total downloads](https://img.shields.io/sourceforge/dt/kyeautoclicker.svg)]](https://sourceforge.net/projects/kyeautoclicker/files/latest/download)
+[![Downloads daily](https://img.shields.io/sourceforge/dd/kyeautoclicker.svg)](https://sourceforge.net/projects/kyeautoclicker/files/latest/download)
 
 kyeautoclicker is a fully-fledged desktop application autoclicker for all clicking needs.
 <br>Written in Visual Basic .NET, and soon C++.
