@@ -15,7 +15,7 @@ kyeautoclicker is a fully-fledged desktop application autoclicker for all clicki
 * Low RAM usage
 * Portable
 * No advertisements or malware
-* Virus Free (The amount of autoclickers with viruses out there are uncountable)
+* Virus Free (The amount of applications with viruses out there are uncountable)
 
 ## Platform
 Currently available only for Windows OS
